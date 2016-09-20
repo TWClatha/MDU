@@ -15,7 +15,7 @@
 #   =======================
 #   Date       Person         		Description
 #   --------   ------------------	------------------------------------------
-#   06/18/12   Jibeesh Kumar Gopi  	Initial development.
+#   06/18/12   Jibeesh Kumar Gopi  	Initial development to test the MDU project
 #
 ####################################################################################
 
